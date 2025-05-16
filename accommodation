@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bedsit for Rent - Guildford Town Centre</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f9f9f9; color: #333; line-height: 1.6; }
+    header { background: #004080; color: white; padding: 40px 20px; text-align: center; }
+    section { max-width: 800px; margin: 40px auto; padding: 0 20px; }
+    h1, h2 { margin-top: 0; }
+    ul { padding-left: 20px; }
+    footer { text-align: center; padding: 20px; font-size: 0.9em; color: #666; }
+    .button {
+      display: inline-block;
+      background: #004080;
+      color: white;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Bedsit for Rent in Guildford</h1>
+    <p>Just 5 minutes from Guildford High Street and London Road Station</p>
+  </header>
+
+  <section>
+    <h2>Accommodation Details</h2>
+    <ul>
+      <li>Self-catering bedsit with independent cooking facilities</li>
+      <li>Fully furnished and ready for occupation</li>
+      <li>Recently redecorated</li>
+      <li>Short or long-term lets available</li>
+      <li>Managed by experienced landlords with a full maintenance team</li>
+      <li>No hidden extras — no deposit required</li>
+    </ul>
+
+    <h2>Requirements</h2>
+    <p>References will be required upon application.</p>
+
+    <a class="button" href="mailto:youremail@example.com">Contact for Viewing</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Bedsit Guildford · All rights reserved
+  </footer>
+
+</body>
+</html>
